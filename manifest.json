@@ -2,7 +2,7 @@
     "theme_color": "#000000",
     "background_color": "#FFFFFF",
     "display": "standalone",
-    "scope": ".",
+    "scope": "/",
     "start_url": "/",
     "name": "WHBA",
     "short_name": "WHBA",
