@@ -2,8 +2,8 @@
     "theme_color": "#000000",
     "background_color": "#FFFFFF",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/whba/",
+    "start_url": "/whba/",
     "name": "WHBA",
     "short_name": "WHBA",
     "icons": [
